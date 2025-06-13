@@ -1,3 +1,22 @@
+# vscode 
+.vscode
+
+# streamlit
+.streamlit/
+.streamlit
+.streamlit/**
+
+# credentials
+os.env
+vertex-ai-cred-file.json
+
+# directory to save
+save/
+
+
+# datasets
+assets/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
